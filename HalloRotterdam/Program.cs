@@ -8,7 +8,7 @@ namespace HalloRotterdam
         {
             Console.WriteLine("Hallo Rotterdam!");
             Console.WriteLine(":) && (:");
-
+            Console.WriteLine("(:)");
         }
     }
 }
